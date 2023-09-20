@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/andreccmarinha
+  username               : "https://twitter.com/andreccmarinha"
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate"
   location         : "Lisbon, Portugal"
-  employer         : "IPRI - Portuguese Institute of International Relations"
+  employer         : "IPRI - UNL"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5vktnUAAAAAJ&hl=pt-PT&oi=ao"
   email            : "andremarinha@fcsh.unl.pt"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "andremarinha"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "andreccmarinha"
   vine             :
   weibo            :
   xing             :
