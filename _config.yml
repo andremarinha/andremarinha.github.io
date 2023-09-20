@@ -82,9 +82,9 @@ analytics:
 author:
   # name             : "André Marinha"
   avatar           : "IMG_5030.jpg"
-  bio              : "Political Sociologist"
+  # bio              : "Political Sociologist"
   location         : "Lisbon, Portugal"
-  employer         : "IPRI - UNL"
+  employer         : "NOVA University of Lisbon"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5vktnUAAAAAJ&hl=pt-PT&oi=ao"
   email            : "andremarinha@fcsh.unl.pt"
