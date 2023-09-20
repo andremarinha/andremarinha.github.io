@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "André Marinha"
+  # name             : "André Marinha"
   avatar           : "IMG_5030.jpg"
   bio              : "Political Sociologist"
   location         : "Lisbon, Portugal"
