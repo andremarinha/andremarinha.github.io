@@ -3,10 +3,11 @@ main:
 
   - title: "CV"
     # url: /cv/
-    url: 
+    url: /files/CV_AndréMarinha_Sep2023.pdf
   
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    # url: /publications/
+    url: https://scholar.google.com/citations?user=5vktnUAAAAAJ&hl=pt-PT&oi=ao
 
  # - title: "Talks"
 # -  url: /talks/    
@@ -14,8 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+   # url: /portfolio/
         
   # - title: "Blog Posts"
   #  url: /year-archive/
