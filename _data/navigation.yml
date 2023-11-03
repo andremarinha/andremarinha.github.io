@@ -3,14 +3,14 @@ main:
 
   - title: "CV"
     # url: /cv/
-    url: /files/CV_AndréMarinha_Oct2023.pdf
+    url: /files/CV_AndréMarinha_Nov2023.pdf
   
   - title: "Research"
     # url: /publications/
     url: https://scholar.google.com/citations?user=5vktnUAAAAAJ&hl=pt-PT&oi=ao
 
   - title: "Teaching"
-    url: /talks/    
+    url: /files/Syllabus_MTI_2022_2023.pdf    
 
   # title: "Teaching"
   # url: /teaching/    
