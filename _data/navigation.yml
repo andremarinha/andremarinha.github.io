@@ -9,8 +9,8 @@ main:
     # url: /publications/
     url: https://scholar.google.com/citations?user=5vktnUAAAAAJ&hl=pt-PT&oi=ao
 
- # - title: "Talks"
-# -  url: /talks/    
+  - title: "Teaching"
+    url: /talks/    
 
   # title: "Teaching"
   # url: /teaching/    
