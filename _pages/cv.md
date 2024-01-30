@@ -50,5 +50,5 @@ Teaching
   {% endfor %}</ul>
 
 CV (PDF)
-======
+------
 [Curriculum Vitae](https://andremarinha.github.io//files/CV_Andr%C3%A9Marinha_Nov2023.pdf)
