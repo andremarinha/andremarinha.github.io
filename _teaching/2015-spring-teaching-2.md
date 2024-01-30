@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Research Methods and Techniques"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "NOVA University of Lisbon, Department of Political Science"
+date: First Semester (Academic Year of 2022/2023)
+location: "Lisbon, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The Syllabus for this course can be accessed here: (https://)
