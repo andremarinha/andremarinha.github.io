@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Political Science and International Relations, NOVA University of Lisbon, 2018
+* M.Sc. in Sociology, ISCTE - University Institute of Lisbon, 2021
+* Diploma  in Political Science, NOVA University of Lisbon, 2021 - 2024
 
 Work experience
 ======
