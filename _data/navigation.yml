@@ -3,7 +3,7 @@ main:
 
   - title: "CV"
     url: /cv/
-    url: /files/CV_AndréMarinha_Nov2023.pdf
+    #url: /files/CV_AndréMarinha_Nov2023.pdf
   
   - title: "Research"
     #url: /publications/
@@ -11,7 +11,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    url: /files/Syllabus_MTI_2022_2023.pdf    
+    #url: /files/Syllabus_MTI_2022_2023.pdf    
 
   - title: "Publications"
     url: /publications/
