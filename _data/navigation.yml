@@ -2,18 +2,19 @@
 main:
 
   - title: "CV"
-    # url: /cv/
+    url: /cv/
     url: /files/CV_AndréMarinha_Nov2023.pdf
   
   - title: "Research"
-    # url: /publications/
+    #url: /publications/
     url: https://scholar.google.com/citations?user=5vktnUAAAAAJ&hl=pt-PT&oi=ao
 
   - title: "Teaching"
+    url: /teaching/
     url: /files/Syllabus_MTI_2022_2023.pdf    
 
-  #- title: "Publications"
-    #url: /publications/
+  - title: "Publications"
+    url: /publications/
     
   #- title: "Portfolio"
    # url: /portfolio/
