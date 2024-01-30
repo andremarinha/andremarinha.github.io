@@ -8,4 +8,4 @@ venue: 'Análise Social'
 Co-authored with [João Gaio e Silva](https://scholar.google.com/citations?user=c0XpzMoAAAAJ&hl=pt-PT&oi=ao). *Forthcoming*.
 
 ---
-*Forthcoming*
+More info on this publication soon.
