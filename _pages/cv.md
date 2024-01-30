@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.A. in Political Science and International Relations, NOVA University of Lisbon, 2018
-* M.Sc. in Sociology, ISCTE - University Institute of Lisbon, 2021
-* Diploma  in Political Science, NOVA University of Lisbon, 2021 - 2024
+* Diploma of Advanced Studies in Political Science (Political Theory), NOVA University of Lisbon (2021 - 2024)
+  *  Visiting Research Fellow, Brown University (March 2023)
+* M.Sc. in Sociology, ISCTE - University Institute of Lisbon (2021)
+* B.A. in Political Science and International Relations, NOVA University of Lisbon (2018)
+  * Erasmus+ Exchange Programme at the Università di Pisa (2017 - 2018)
 
 Work experience
 ======
