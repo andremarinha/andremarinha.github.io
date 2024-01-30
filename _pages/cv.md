@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full version [here](https://andremarinha.github.io//files/CV_Andr%C3%A9Marinha_Nov2023.pdf).
+
 Education
 ======
 * Diploma of Advanced Studies in Political Science (Political Theory), NOVA University of Lisbon (2021 - 2024)
@@ -58,7 +60,3 @@ Additional Training
   * *Scientific Text Processing with LaTeX*
 * Oxford Spring School in Advanced Research Methods
   * *Quantitative Text Analysis*, by Bruno Castanho Silva
-
-CV (PDF)
-------
-[Curriculum Vitae](https://andremarinha.github.io//files/CV_Andr%C3%A9Marinha_Nov2023.pdf)
