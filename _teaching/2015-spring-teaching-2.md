@@ -8,4 +8,4 @@ date: First Semester (Academic Year of 2022/2023)
 location: "Lisbon, Portugal"
 ---
 
-The Syllabus for this course can be accessed here: (https://)
+The Syllabus for this course can be accessed here (url = files/Syllabus_MTI_2022_2023.pdf)
