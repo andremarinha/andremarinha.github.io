@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a social scientist based at [NOVA FCSH](https://www.fcsh.unl.pt/), in Lisbon, Portugal, and a researcher in [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/).
+I am a doctoral student based at [NOVA FCSH](https://www.fcsh.unl.pt/), in Lisbon, Portugal and a researcher in [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/).
 
 My research interests lie on the intersection between the study power, protest and political representation/s, with a focus on Sub-Saharan Africa.
 
