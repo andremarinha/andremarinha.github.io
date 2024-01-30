@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version [CV](https://andremarinha.github.io//files/CV_Andr%C3%A9Marinha_Nov2023.pdf)
-
 Education
 ======
 * Diploma of Advanced Studies in Political Science (Political Theory), NOVA University of Lisbon (2021 - 2024)
@@ -50,3 +48,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+CV (PDF)
+======
+[Curriculum Vitae](https://andremarinha.github.io//files/CV_Andr%C3%A9Marinha_Nov2023.pdf)
