@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "NOVA University of Lisbon, Department of Political Science"
-date: 2022
 location: "Lisbon, Portugal"
 ---
 
