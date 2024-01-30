@@ -19,24 +19,23 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2022 - Present: Researcher
+  * ICS - Institute of Social Sciences, University of Lisbon
+  * Project: [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2021: Doctoral Researcher
+  * ICS - Institute of Social Sciences, University of Lisbon
+  * Project: [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/)
+  * Supervisor: [Edalina Rodrigues Sanches](https://www.ics.ulisboa.pt/en/pessoa/edalina-sanches)
   
-Skills
+Conference Presentations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* International Political Science Association (IPSA): 2021, 2023
+* European Conference on African Studies (ECAS): 2023
+* African Studies Association UK (ASAUK): 2022
+* Council for European Studies: 2022
+* Iberian Congress of African Studies: 2022
+* European Sociological Association (ESA): 2021
 
 Publications
 ======
@@ -44,18 +43,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
