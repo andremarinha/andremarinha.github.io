@@ -49,6 +49,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Additional Training
+======
+* GADES Solutions
+  * *Data Science with Python*
+  * *Data Science with R*
+* NOVA Doctoral School, School of Science and Technology
+  * *Scientific Text Processing with LaTeX*
+* Oxford Spring School in Advanced Research Methods
+  * *Quantitative Text Analysis*, by Bruno Castanho Silva
+
 CV (PDF)
 ------
 [Curriculum Vitae](https://andremarinha.github.io//files/CV_Andr%C3%A9Marinha_Nov2023.pdf)
