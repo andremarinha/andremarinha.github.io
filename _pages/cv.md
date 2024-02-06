@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full version [here](https://andremarinha.github.io//files/CV_Andr%C3%A9Marinha_Nov2023.pdf).
+Full version [here](/files/CV_AndréMarinha_Feb2024.pdf).
 
 Education
 ======
