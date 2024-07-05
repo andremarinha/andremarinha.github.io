@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a political sociologist based at [IPRI-UNL](https://ipri.unl.pt/index.php/pt/investigadores/details/34/356), in Lisbon, Portugal and a researcher in [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/).
+Welcome! I am PhD student at [IPRI-UNL](https://ipri.unl.pt/index.php/pt/investigadores/details/34/356) and a researcher in [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/). My research focuses on social identities and political behaviour (conventional and non-conventional) in Western and Southern Europe (i.e., Portugal and Spain), and on political representation and constituency service in Sub-Saharan Africa.
 
-My research interests lie on the intersection between the study power, protest and political representation/s, with a focus on Sub-Saharan Africa.
+My research interests lie at the intersection between sociology, political and social psychology (e.g., social identity theory and social representations theory), and comparative politics. Over the last years, I became interested in developing and implementing mixed-methods and multi-modal research designs to study how ordinary citizens make sense of politics and how it informs their political behaviour.
 
+I hold a MSc in Sociology from ISCTE - University Institute of Lisbon, a Post-graduation in Social Research Methods from ICS - Institute of Social Sciences, University of Lisbon, and a BA in Political Science and International Relations from NOVA University of Lisbon
 
-
-Feel free to contact me at [andremarinha@fcsh.unl.pt](mailto:andremarinha@fcsh.unl.pt).
+If any of this is of interest to you or think that we share similar interests, please feel free to reach out at [andremarinha@fcsh.unl.pt](mailto:andremarinha@fcsh.unl.pt)
