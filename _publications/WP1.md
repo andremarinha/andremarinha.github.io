@@ -1,9 +1,10 @@
 ---
 title: 'Calling a Spade a Spade: The Concept of Populism in the Portuguese Press (2012-2021)'
 collection: publications
-permalink: /publication
+permalink: /publication/
 date: 2024-01-30
 venue: 'Análise Social'
+paperurl: 'https://revistas.rcaap.pt/analisesocial/article/view/35619'
 ---
 Co-authored with [João Gaio e Silva](https://scholar.google.com/citations?user=c0XpzMoAAAAJ&hl=pt-PT&oi=ao). 2024.
 
