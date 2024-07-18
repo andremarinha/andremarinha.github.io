@@ -1,7 +1,7 @@
 ---
 title: 'What do we mean when we talk about constituency service? A scoping literature review of four decades of research'
 collection: publications
-permalink: /publication/
+permalink: /PRX_2024/
 date: 2024-07-17
 venue: 'Political Research Exchange'
 paperurl: ''
