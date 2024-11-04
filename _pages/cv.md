@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a copy of my CV [here](/files/CV_AndréMarinha_July2024.pdf).
+Download a copy of my CV [here](/files/CV_AndréMarinha_Nov2024.pdf).
 
 Education
 ======
