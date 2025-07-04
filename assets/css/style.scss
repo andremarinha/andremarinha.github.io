@@ -292,3 +292,11 @@ details[open] {
 details:not([open]) {
   margin: 0em 0em 1em 0;
 }
+
+.sidebar-profile-pic img {
+  border: 2px solid #ccc;
+  padding: 4px;
+  background-color: #fff;
+  display: block;
+  margin: 0 auto 10px;
+}
