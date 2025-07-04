@@ -37,7 +37,7 @@ a {
 
 a:hover {
   color: #556b2f; /* darker olive */
-  text-decoration: none;
+  pointer-events:none;
 }
 
 section a {
