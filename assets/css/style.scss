@@ -13,7 +13,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fira Sans', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-weight: 500;
   color: #212121;
   line-height: 1.1;
@@ -36,7 +36,7 @@ a {
 }
 
 a:hover {
-  color: #556b2f; /* darker olive */
+  color: #556b2f;
   text-decoration: none;
 }
 
@@ -194,37 +194,16 @@ footer {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
-/* === RESPONSIVE DESIGN === */
-@media print, screen and (max-width: 960px) {
-  .wrapper {
-    width: auto;
-    margin: 0;
-  }
-
-  header, section, footer {
-    float: none;
-    position: static;
-    width: auto;
-  }
-
-  header {
-    padding-right: 320px;
-  }
-
-  section {
-    border: 1px solid #e5e5e5;
-    border-width: 1px 0;
-    padding: 20px 0;
-    margin: 0 0 20px;
-  }
-
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px;
-  }
+/* === SIDEBAR PROFILE PHOTO === */
+.sidebar-profile-pic img {
+  width: 85%;
+  height: auto;
+  border-radius: 0;
+  display: block;
+  margin: 0 0 15px 0;
 }
 
+/* === SOCIAL ICONS === */
 .social-icons a {
   margin-right: 15px;
   color: #3d3d3d;
@@ -248,21 +227,73 @@ footer {
 }
 
 .social-icons svg path {
-  fill: #3d3d3d; /* original fill */
+  fill: #3d3d3d;
   transition: fill 0.3s ease;
 }
 
+/* === DETAILS BLOCK === */
+details[open] {
+  margin: 2em 1em 2em 0;
+  padding: 0.1em 1em 1em;
+  font-style: italic;
+  background-color: #e6e6e6;
+}
+
+details:not([open]) {
+  margin: 0em 0em 1em 0;
+}
+
+/* === RESPONSIVE DESIGN === */
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  header, section, footer {
+    float: none;
+    position: static;
+    width: auto;
+  }
+
+  header {
+    padding-right: 0;
+    margin-bottom: 20px;
+    text-align: left; /* change to center if preferred */
+  }
+
+  .sidebar-profile-pic img {
+    width: 100%;
+    height: auto;
+    margin: 0 0 15px 0;
+  }
+
+  section {
+    border: 1px solid #e5e5e5;
+    border-width: 1px 0;
+    padding: 20px 0;
+    margin: 0 0 20px;
+  }
+
+  header ul {
+    position: absolute;
+    right: 50px;
+    top: 52px;
+  }
+}
 
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap: break-word;
   }
 
-  header ul, header p.view {
+  header ul,
+  header p.view {
     position: static;
   }
 
-  pre, code {
+  pre,
+  code {
     word-wrap: normal;
   }
 }
@@ -279,24 +310,4 @@ footer {
   header li {
     width: 33%;
   }
-}
-
-/* === DETAILS BLOCK === */
-details[open] {
-  margin: 2em 1em 2em 0;
-  padding: 0.1em 1em 1em;
-  font-style: italic;
-  background-color: #e6e6e6;
-}
-
-details:not([open]) {
-  margin: 0em 0em 1em 0;
-}
-
-.sidebar-profile-pic img {
-  width: 85%;
-  height: auto;
-  border-radius: 0;
-  display: block;
-  margin: 0 0 15px 0;
 }
