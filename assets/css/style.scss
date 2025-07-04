@@ -242,6 +242,17 @@ footer {
   box-shadow: none !important;
 }
 
+.social-icons a:hover svg path {
+  fill: #556b2f;
+  transition: fill 0.3s ease;
+}
+
+.social-icons svg path {
+  fill: #3d3d3d; /* original fill */
+  transition: fill 0.3s ease;
+}
+
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap: break-word;
