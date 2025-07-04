@@ -36,7 +36,7 @@ a {
 }
 
 a:hover {
-  color: #334d1f; /* darker olive */
+  color: #556b2f; /* darker olive */
   text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ section a {
 }
 
 section a:hover {
-  color: #334d1f;
+  color: #556b2f;
 }
 
 /* === CUSTOM TITLE COLOR === */
@@ -127,7 +127,7 @@ hr {
 
 /* === HEADER / SIDEBAR === */
 header {
-  width: 270px;
+  width: 250px;
   float: right;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -145,7 +145,7 @@ header ul {
 
 header li {
   width: 89px;
-  float: left;
+  float: right;
   border-right: 1px solid #e0e0e0;
   height: 40px;
 }
