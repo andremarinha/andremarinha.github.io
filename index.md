@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome!
 
-![](images/IMG_5030.jpg)
+<img src="images/IMG_5030.jpg" style="width: 40%; height: 40%" />
 
 I am a PhD student at the [Scuola Normale Superiore](https://www.sns.it/it/persona/andre-queiroz-candido-de-carvalho-marinha). My ongoing doctoral research focuses on social cleavages and political behaviour in Southern Europe. On a parallel endeavour, I have also been working on topics of political representation and constituency service in Sub-Saharan Africa as a researcher at [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/).
 
