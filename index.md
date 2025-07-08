@@ -11,4 +11,4 @@ My research interests are concerned with the interplay between inequality, cultu
 
 I hold an MSc in Sociology from ISCTE – University Institute of Lisbon, a Postgraduate Diploma in Social Research Methods from the Institute of Social Sciences (ICS), University of Lisbon, and a BA in Political Science and International Relations from NOVA University of Lisbon. In 2023, I was a Visiting Research Fellow at the Department of Portuguese and Brazilian Studies at Brown University.
 
-If any of this aligns with your interests or you'd like to connect, feel free to reach out at [andre.marinha\@sns.it](mailto:andre.marinha@sns.it)
+If any of this aligns with your interests or you'd like to connect, feel free to reach out at [andre.marinha@sns.it](mailto:andre.marinha@sns.it)
